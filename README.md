@@ -1,6 +1,6 @@
 # CleanCode
 Corrección de un ejercicio de examen sobre arrays de la segunda evaluación.
-En este ejercicio nos piden el dis y mes para poder reservar un asiento.
+En este ejercicio nos piden el día y mes para poder reservar un asiento.
 
 ```
 public static void main(String[] args) {
@@ -112,11 +112,11 @@ public static void main(String[] args) {
 
 Lo que vamos a corregir en este código es:
 #### 1. Nombres:
-Los nombres deben ser legibles, significativos y que explique por si mismos la función que hace el código
+Los nombres deben ser legibles, significativos y que explique por sí mismos la función que hace el código
 
 #### 2. Bloques y sangrado: 
 Los bloques en instrucciones if, else, while y similares deben tener una línea.
- - El if se puede reducir con el operador ternario, sintaxis: resultado = condición ? valor_si_se_cumple : valor_si_no_se_cumple
+ - El if se puede reducir con el operador ternario, sintaxis: resultado = condición ? valor_si_se_cumple : valor_si_no_se_cumple.
  - Los for se pueden poner como foreach.
 
 #### 3. Comentarios:

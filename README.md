@@ -1,5 +1,5 @@
 # CleanCode
-A continuación se corregirá un ejercicio de examen sobre arrays de la segunda evaluación.
+Corrección de un ejercicio de examen sobre arrays de la segunda evaluación.
 En este ejercicio nos piden el dis y mes para poder reservar un asiento.
 
 ```

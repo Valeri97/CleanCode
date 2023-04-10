@@ -1,6 +1,4 @@
 # CleanCode
-Práctica de entornos - Clean code
-
 A continuación se corregirá un ejercicio de examen sobre arrays de la segunda evaluación.
 En este ejercicio nos piden el dis y mes para poder reservar un asiento.
 
